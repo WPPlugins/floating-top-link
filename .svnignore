@@ -1,0 +1,13 @@
+.DS_Store
+.git
+.gitignore
+.svnignore
+.travis.yml
+gulpfile.js
+package.json
+LICENSE
+README.md
+bin
+node_modules
+release
+symbols-for-sketch
